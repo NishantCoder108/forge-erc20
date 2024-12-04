@@ -64,3 +64,7 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+### Storage
+- Viewing Storage inspect:
+- `forge inspect MyToken storage`
