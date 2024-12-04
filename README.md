@@ -68,3 +68,6 @@ $ cast --help
 ### Storage
 - Viewing Storage inspect:
 - `forge inspect MyToken storage`
+
+## Resources:
+- [ERC20](https://eips.ethereum.org/EIPS/eip-20)
